@@ -4,6 +4,6 @@ This is an app that can track the page you are on for multiple books. It can als
 
 ## Implemented Features
 
-[ ] Standard Page Tracker
-[ ] Words Per Minute Tracker
-[ ] Scheduler
+- [ ] Standard Page Tracker
+- [ ] Words Per Minute Tracker
+- [ ] Scheduler
